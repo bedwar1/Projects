@@ -1,0 +1,1 @@
+Simple program that accpets a file (in this case a book) and counts the number of times each letter and word appears, then displays the top 10 occurences including and excluding a list of commonly used English words(the, and, but, etc).
